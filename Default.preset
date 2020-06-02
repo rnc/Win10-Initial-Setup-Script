@@ -147,7 +147,7 @@ DisableSearchAppInStore         # EnableSearchAppInStore
 # DisableShortcutInName           # EnableShortcutInName
 # HideShortcutArrow             # ShowShortcutArrow
 # SetVisualFXPerformance          # SetVisualFXAppearance
-# EnableTitleBarColor           # DisableTitleBarColor
+EnableTitleBarColor           # DisableTitleBarColor
 # SetAppsDarkMode               # SetAppsLightMode
 # SetSystemLightMode            # SetSystemDarkMode
 # AddENKeyboard                 # RemoveENKeyboard
@@ -197,8 +197,8 @@ ShowThisPCOnDesktop             # HideThisPCFromDesktop
 # HidePicturesFromExplorer      # ShowPicturesInExplorer
 # HideVideosFromThisPC            # ShowVideosInThisPC
 # HideVideosFromExplorer        # ShowVideosInExplorer
-# Hide3DObjectsFromThisPC         # Show3DObjectsInThisPC
-# Hide3DObjectsFromExplorer     # Show3DObjectsInExplorer
+Hide3DObjectsFromThisPC         # Show3DObjectsInThisPC
+Hide3DObjectsFromExplorer     # Show3DObjectsInExplorer
 # HideNetworkFromExplorer       # ShowNetworkInExplorer
 # HideIncludeInLibraryMenu      # ShowIncludeInLibraryMenu
 # HideGiveAccessToMenu          # ShowGiveAccessToMenu
@@ -252,8 +252,8 @@ UninstallFaxAndScan           # InstallFaxAndScan
 # EnableAudio                   # DisableAudio
 
 ### Unpinning ###
-# UnpinStartMenuTiles
-# UnpinTaskbarIcons
+UnpinStartMenuTiles
+UnpinTaskbarIcons
 
 ### Auxiliary Functions ###
 WaitForKey
